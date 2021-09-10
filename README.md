@@ -1,3 +1,4 @@
+# I am helping setup this exchange for anyone interested. It apears the initial master of the code: Jammy928 isn't keen on responding to quesrries from anyone.  
 # Crypto-Trading Centralised Exchange /Trading BOT, Binance Clone, Huobi Clone, Bitsgap Clone
 # Maybe The best open source core code exchange in the entire net, the architecture/code quality is visible.
 # I think this may be the best choice for you to build an exchange or secondary development
