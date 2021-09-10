@@ -1,11 +1,10 @@
-# Crypto-Exchange / Coin-Exchange   
+# Crypto-Trading Centralised Exchange /Trading BOT, Binance Clone, Huobi Clone, Bitsgap Clone
 # Maybe The best open source core code exchange in the entire net, the architecture/code quality is visible.
 # I think this may be the best choice for you to build an exchange or secondary development
 
->  Statement 1: I have been working in the new company. I will take the time to update some descriptive things here so that everyone can compile, build, and develop  
->  Statement 2: The APP source code and the trading robot source code are not open source (provided for a fee), if necessary, email: 837385225@qq.com  
-
-# I am a chinese，so chinese is my mother language, But I can also use both English and Japanese to communicate with you. 
+>  Statement 1: I will charge setup fees on this project as it doesn't work as it's provided for by Jammy.  
+>  Statement 2: The APP source code and the trading robot source code are not open source (provided for a fee), if necessary, whatsapp: +254795557216  
+. 
 
 ## Introduction
 
